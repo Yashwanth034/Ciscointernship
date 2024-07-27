@@ -34,31 +34,31 @@ Here are the visual representations of the campus network topology as designed i
 
 #### Screenshot 1: Main Server Room
 
-![Screenshot 1](![1](https://github.com/user-attachments/assets/8671c03e-b079-4605-baca-abbaafc32d7e)
+![Screenshot 1](https://github.com/user-attachments/assets/8671c03e-b079-4605-baca-abbaafc32d7e)
 
 #### Screenshot 2: Advance Block
 
-![Screenshot 2](SNAPS/2.png)
+![Screenshot 2](https://github.com/user-attachments/assets/cf0ea571-bff1-44d1-a973-730a31657a18)
 
 #### Screenshot 3: St Paul's Block
 
-![Screenshot 3](SNAPS/3.png)
+![Screenshot 3](https://github.com/user-attachments/assets/4a0ebcea-f285-40d1-9c96-b008ee6d31f6)
 
 #### Screenshot 4: Hostel blocks
 
-![Screenshot 4](SNAPS/4.png)
+![Screenshot 4](https://github.com/user-attachments/assets/a0678d79-b9cb-4df4-9c20-e7275a85218f)
 
 #### Screenshot 5: Academic Block 4
 
-![Screenshot 5](SNAPS/5.png)
+![Screenshot 5](https://github.com/user-attachments/assets/470e0707-704d-4fa8-8589-a114d5285de3)
 
 #### Screenshot 6: Library Building
 
-![Screenshot 6](SNAPS/6.png)
+![Screenshot 6](https://github.com/user-attachments/assets/2d578a9c-1396-4aa6-9633-bbbafa363a1c)
 
 #### Screenshot 7: Block 18
 
-![Screenshot 7](SNAPS/7.png)
+![Screenshot 7](https://github.com/user-attachments/assets/ca2c81c0-4eff-42f5-b25b-b78f3a7769d9)
 
 ## Files Included in the Repository
 
@@ -79,5 +79,5 @@ Contributions to this project are welcome. Please fork the repository and submit
 
 For any inquiries or further assistance regarding this project, please contact:
 
-- **Name**: Shanmukh Anala
-- **Email**: [shanmukh868@gmail.com](mailto:shanmukh868@gmail.com)
+- **Name**: Adama Yashwanth Reddy
+- **Email**: [yashwanthadama034@gmail.com](yashwanthadama034@gmail.com)
